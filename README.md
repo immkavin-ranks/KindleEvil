@@ -1,0 +1,4 @@
+KindleEvil is a name that suggests the ignition of negative thoughts and emotions, which can be used as a source of motivation or insult. The word "Kindle" means to ignite or start a fire, which can be interpreted as the act of sparking a thought or energy within the user. The addition of "Evil" implies that these thoughts or energy can be used for negative purposes, such as insulting or roasting someone. Overall, the name KindleEvil effectively conveys the concept of a website that randomly quotes and ignites both positive and negative thoughts and emotions.
+
+https://forismatic.com/en/api/
+https://evilinsult.com/api/
