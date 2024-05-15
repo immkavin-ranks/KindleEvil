@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KindleEvil</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>KindleEvil</h1>
+    <% if (locals.error) { %>
+        <p><%= error %></p>
+    <% } %>
+    <h2><%= memeTitle %></h2>
+    <img src="<%= memeUrl %>" alt="reddit meme">
+    <hr>
+    <h2>Insult of the day!</h2>
+    <q><%= insult %></q>
+    <cite><%= creator %></cite>
+</body>
+</html>
