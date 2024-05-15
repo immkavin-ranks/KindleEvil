@@ -1,0 +1,34 @@
+{
+  "name": "kindleevil",
+  "version": "1.0.0",
+  "description": "KindleEvil is a name that suggests the ignition of negative thoughts and emotions, which can be used as a source of motivation or insult. The word \"Kindle\" means to ignite or start a fire, which can be interpreted as the act of sparking a thought or energy within the user. The addition of \"Evil\" implies that these thoughts or energy can be used for negative purposes, such as insulting or roasting someone. Overall, the name KindleEvil effectively conveys the concept of a website that randomly quotes and ignites both positive and negative thoughts and emotions.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immkavin-ranks/KindleEvil.git"
+  },
+  "keywords": [
+    "insult",
+    "quotes",
+    "motivation",
+    "evil",
+    "kindle",
+    "kindleevil",
+    "kavinsde"
+  ],
+  "author": "Kavin Manoharan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/immkavin-ranks/KindleEvil/issues"
+  },
+  "homepage": "https://github.com/immkavin-ranks/KindleEvil#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
